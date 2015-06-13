@@ -59,7 +59,7 @@ form {
 	margin-top: 20px;
 }
 
-#search-input {
+#search {
 	width: 570px;
 	height: 18px;
 	border: 1px solid #c7c7c7;
@@ -67,11 +67,11 @@ form {
 	font-size: 16px;
 }
 
-#search-input:hover {
+#search:hover {
 	border-color: #a3a3a3;
 }
 
-#search-input:focus {
+#search:focus {
 	border-color: #57a5ff;
 	outline: none;
 }
